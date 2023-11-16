@@ -1,3 +1,6 @@
+<p align="center"><a href="https://github.com/hafizewp22/barang-sederhana-reactjs/blob/master/Screenshot%202023-11-16%20at%2019.10.39.png" target="_blank"><img src="https://github.com/hafizewp22/barang-sederhana-reactjs/blob/master/Screenshot%202023-11-16%20at%2019.10.39.png" width="400"></a></p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
